@@ -37,11 +37,5 @@ htmlcov/
 coverage.xml
 *.cover
 
-# Project specific
-data/input/*
-!data/input/.gitkeep
-data/output/*
-!data/output/.gitkeep
-*.xlsx
-*.csv
+# Pytest
 .pytest_cache/
