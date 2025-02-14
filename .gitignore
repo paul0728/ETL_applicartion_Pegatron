@@ -39,3 +39,7 @@ coverage.xml
 
 # Pytest
 .pytest_cache/
+
+
+# Others
+Note.txt
